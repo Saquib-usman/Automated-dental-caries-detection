@@ -1,6 +1,3 @@
-
-Sure! Below is a basic README.md file template for your project:
-
 Automated Dental Caries Detection using Image Processing and Machine Learning
 Overview
 This project focuses on automated detection of dental caries using image processing and machine learning techniques. The system leverages Convolutional Neural Networks (CNNs) to analyze dental X-ray images, assisting dentists in early caries detection.
@@ -20,7 +17,7 @@ Dataset:
 This project uses dental image datasets from Kaggle for training and testing the models.
 
 Results:
-Achieved [Insert Accuracy]% accuracy on test data.
+Achieved 70% accuracy on test data.
 Reduced false positives and false negatives compared to traditional methods.
 Contributing:
 Contributions are welcome! Feel free to open a pull request to enhance this project.
